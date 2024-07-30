@@ -1,2 +1,2 @@
 # meme-website
-learned how to create margin, border and other properties
+learned how to create margin, border and other properties via html.
